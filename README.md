@@ -1,5 +1,13 @@
 # esports_hackathon
 
+1st place in e-sports hackathon course
+
+Using the game League of Legends api.
+
+Create win/loss prediction models through data extraction, processing, analysis, visualization, and machine learning learning.
+
+What variables are important? game-based interpretation.
+
 e-sports 해커톤 과정 1등 수상
 
 게임 리그오브레전드 api를 이용.
